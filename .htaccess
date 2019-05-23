@@ -38,7 +38,7 @@
 # END GZIP
 ##### LOCAWEB - NAO REMOVER #####
 AddHandler php7-script .php
-suPHP_ConfigPath /home/meteste/
+suPHP_ConfigPath /home/testeme1/
 ##### LOCAWEB - NAO REMOVER #####
 
 
