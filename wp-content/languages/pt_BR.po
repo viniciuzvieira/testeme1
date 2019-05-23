@@ -7390,7 +7390,7 @@ msgstr "Resultados da pesquisa por &#8220;%s&#8221;"
 
 #: wp-includes/general-template.php:972 wp-includes/general-template.php:1187
 msgid "Page not found"
-msgstr "Página não encontradaa"
+msgstr "Página não encontradaaa"
 
 #. translators: 1: 'text_direction' argument, 2: bloginfo() function name, 3:
 #. is_rtl() function name
