@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contempo Saved Searches & Email Alerts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-21 23:53+0000\n"
+"PO-Revision-Date: 2018-12-07 22:25+0000\n"
+"Last-Translator: meteste <vinicius.silva@zcore.com.br>\n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-4.9.8"
+
+#: contempo-saved-searches-email-alerts.php:40
+msgid "Create a new email alert"
+msgstr "Crie um novo alerta de email"
+
+#: contempo-saved-searches-email-alerts.php:41
+msgid ""
+"What are you looking for? Fill out the fields below it can be as precise or "
+"as broad as you like."
+msgstr ""
+"O que você está procurando? Preencha os campos abaixo que podem ser tão "
+"precisos ou tão amplos quanto você desejar."
+
+#: contempo-saved-searches-email-alerts.php:44
+msgid "Type of Property"
+msgstr "Tipo de Imóvel"
+
+#: contempo-saved-searches-email-alerts.php:49
+msgid "Status"
+msgstr ""
+
+#: contempo-saved-searches-email-alerts.php:54
+msgid "Beds"
+msgstr "Quartos"
+
+#: contempo-saved-searches-email-alerts.php:59
+msgid "Baths"
+msgstr "Banheiros"
+
+#: contempo-saved-searches-email-alerts.php:64
+msgid "Price From"
+msgstr "Preço de"
+
+#: contempo-saved-searches-email-alerts.php:69
+msgid "Price To"
+msgstr "Preço para"
+
+#: contempo-saved-searches-email-alerts.php:74
+msgid "City"
+msgstr "Cidade"
+
+#: contempo-saved-searches-email-alerts.php:79
+msgid "State"
+msgstr "Estado"
+
+#: contempo-saved-searches-email-alerts.php:91
+msgid "Submit"
+msgstr "Novo"
+
+#: contempo-saved-searches-email-alerts.php:92
+msgid "Submit Alert"
+msgstr "Novo alerta"
+
+#: contempo-saved-searches-email-alerts.php:114
+msgid "Are you sure you want to delete?"
+msgstr "Tem certeza de que deseja excluir?"
+
+#: contempo-saved-searches-email-alerts.php:142
+msgid ""
+" - Esetting is saved. You will receive an email notification when new "
+"properties matching your search will be published"
+msgstr ""
+"- Configuração salva. Você receberá uma notificação por e-mail quando novas "
+"propriedades correspondentes à sua pesquisa forem publicadas"
+
+#: contempo-saved-searches-email-alerts.php:158
+#: contempo-saved-searches-email-alerts.php:207
+msgid "Unverified Nonce!"
+msgstr "Não verificado!"
+
+#: contempo-saved-searches-email-alerts.php:192
+msgid ""
+"Search is saved. You will receive an email notification when new properties "
+"matching your search will be published"
+msgstr ""
+"A pesquisa é salva. Você receberá uma notificação por e-mail quando novas "
+"propriedades correspondentes à sua pesquisa forem publicadas"
+
+#: contempo-saved-searches-email-alerts.php:254
+msgid ""
+"Alert has been saved. You will receive an email notification when new "
+"properties matching your search will be published"
+msgstr ""
+"Alerta foi salvo. Você receberá uma notificação por e-mail quando novas "
+"propriedades correspondentes à sua pesquisa forem publicadas"
+
+#: contempo-saved-searches-email-alerts.php:274
+#: contempo-saved-searches-email-alerts.php:287
+msgid "you don't have the right to delete this"
+msgstr "você não tem o direito de excluir este"
+
+#: contempo-saved-searches-email-alerts.php:298
+msgid "Deleted Successfully"
+msgstr "Apagado com sucesso"
+
+#: contempo-saved-searches-email-alerts.php:544
+msgid "Manage your email alerts"
+msgstr "Gerencie seus alertas por email"
+
+#: contempo-saved-searches-email-alerts.php:544
+msgid "here"
+msgstr "aqui"
+
+#: contempo-saved-searches-email-alerts.php:603
+msgid "Hello,"
+msgstr "Olá,"
+
+#: contempo-saved-searches-email-alerts.php:603
+msgid "A new submission matching your chosen criteria has been published at "
+msgstr ""
+"Uma nova submissão correspondente aos critérios escolhidos foi publicada em"
+
+#: contempo-saved-searches-email-alerts.php:604
+msgid "These are the new submissions:"
+msgstr "Estas são as novas propostas:"
+
+#: contempo-saved-searches-email-alerts.php:619
+msgid ""
+"If you do not wish to be notified anymore please enter your account and "
+"delete the Email Alert. Thank you."
+msgstr ""
+"Se você não deseja mais ser notificado, digite sua conta e exclua o alerta "
+"de e-mail. Obrigado."
+
+#. Name of the plugin
+msgid "Contempo Saved Searches & Email Alerts"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin allows users be alerted via email when a listing is added."
+msgstr ""
+"Este plugin permite que os usuários sejam alertados por e-mail quando um "
+"imóvel é adicionado."
+
+#. Author of the plugin
+msgid "Contempo"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://contempographicdesign.com"
+msgstr ""

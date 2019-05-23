@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contempo Mortgage Calculator Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-13 19:41+0000\n"
+"PO-Revision-Date: 2018-12-07 22:12+0000\n"
+"Last-Translator: meteste <vinicius.silva@zcore.com.br>\n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-4.9.8"
+
+#: ct-mortgage-calculator.php:56
+msgid "CT Mortgage Calculator"
+msgstr "CT Simulação"
+
+#: ct-mortgage-calculator.php:80 ct-mortgage-calculator.php:82
+msgid "Sale price (no separators)"
+msgstr "Preço de venda"
+
+#: ct-mortgage-calculator.php:84 ct-mortgage-calculator.php:134
+#: ct-mortgage-calculator.php:134 ct-mortgage-calculator.php:134
+msgid "Interest Rate (%)"
+msgstr "Taxa de juro (%)"
+
+#: ct-mortgage-calculator.php:85 ct-mortgage-calculator.php:135
+#: ct-mortgage-calculator.php:135 ct-mortgage-calculator.php:135
+msgid "Term (years)"
+msgstr "Prazo (anos)"
+
+#: ct-mortgage-calculator.php:86
+msgid "Down payment (no separators)"
+msgstr "Entrada"
+
+#: ct-mortgage-calculator.php:88 ct-mortgage-calculator.php:138
+msgid "Calculate"
+msgstr "Calcular"
+
+#: ct-mortgage-calculator.php:89
+msgid "Monthly Payment:"
+msgstr "Pagamento mensal:"
+
+#: ct-mortgage-calculator.php:110
+msgid "Title:"
+msgstr "Título:"
+
+#: ct-mortgage-calculator.php:112
+msgid "Currency:"
+msgstr "Moeda:"
+
+#: ct-mortgage-calculator.php:133
+msgid "Sale price (<?php echo $currency; ?>)"
+msgstr "Preço de venda (<?php echo $currency; ?>)"
+
+#: ct-mortgage-calculator.php:133
+msgid "Sale price ($)"
+msgstr "Preço de venda (R$)"
+
+#: ct-mortgage-calculator.php:136
+msgid "Down payment (<?php echo $currency; ?>)"
+msgstr "Pagamento inicial (<?php echo $currency; ?>)"
+
+#: ct-mortgage-calculator.php:140
+msgid "Your Monthly Payment"
+msgstr "Seu pagamento mensal"
+
+#. Name of the plugin
+msgid "Contempo Mortgage Calculator Widget"
+msgstr "Contempo Simulação Widget"
+
+#. Description of the plugin
+msgid "A simple mortgage calculator widget"
+msgstr "Um widget simples de calculadora de simulação"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://contemporealestatethemes.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "Chris Robinson"
+msgstr ""

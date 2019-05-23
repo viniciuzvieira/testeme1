@@ -1,0 +1,86 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-13 19:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: ct-mortgage-calculator.php:56
+msgid "CT Mortgage Calculator"
+msgstr ""
+
+#: ct-mortgage-calculator.php:80 ct-mortgage-calculator.php:82
+msgid "Sale price (no separators)"
+msgstr ""
+
+#: ct-mortgage-calculator.php:84 ct-mortgage-calculator.php:134
+#: ct-mortgage-calculator.php:134 ct-mortgage-calculator.php:134
+msgid "Interest Rate (%)"
+msgstr ""
+
+#: ct-mortgage-calculator.php:85 ct-mortgage-calculator.php:135
+#: ct-mortgage-calculator.php:135 ct-mortgage-calculator.php:135
+msgid "Term (years)"
+msgstr ""
+
+#: ct-mortgage-calculator.php:86
+msgid "Down payment (no separators)"
+msgstr ""
+
+#: ct-mortgage-calculator.php:88 ct-mortgage-calculator.php:138
+msgid "Calculate"
+msgstr ""
+
+#: ct-mortgage-calculator.php:89
+msgid "Monthly Payment:"
+msgstr ""
+
+#: ct-mortgage-calculator.php:110
+msgid "Title:"
+msgstr ""
+
+#: ct-mortgage-calculator.php:112
+msgid "Currency:"
+msgstr ""
+
+#: ct-mortgage-calculator.php:133
+msgid "Sale price (<?php echo $currency; ?>)"
+msgstr ""
+
+#: ct-mortgage-calculator.php:133
+msgid "Sale price ($)"
+msgstr ""
+
+#: ct-mortgage-calculator.php:136
+msgid "Down payment (<?php echo $currency; ?>)"
+msgstr ""
+
+#: ct-mortgage-calculator.php:140
+msgid "Your Monthly Payment"
+msgstr ""
+
+#. Name of the plugin
+msgid "Contempo Mortgage Calculator Widget"
+msgstr ""
+
+#. Description of the plugin
+msgid "A simple mortgage calculator widget"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://contemporealestatethemes.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "Chris Robinson"
+msgstr ""
